@@ -46,7 +46,6 @@ This project uses the famous **GTZAN Genre Collection** dataset. It consists of 
 - Pop
 - Reggae
 - Rock
-
 *Note: You will need to download this dataset separately and place it in the correct directory as described in the installation instructions.*
 
 ## Methodology
